@@ -1,3 +1,7 @@
+Note: This is not an original code but a code made by Londe Shubham and I am using it for educational purposes just for the understanding of Jenkins
+
+
+
 # django-todo
 A simple todo app built with django
 
